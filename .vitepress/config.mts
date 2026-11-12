@@ -40,6 +40,12 @@ export default defineConfig({
               { text: 'Maru (Importação de Lunig\'s)', link: '/docs/guide/maru' },
               { text: 'Suma (Comparação)', link: '/docs/guide/suma' },
             ]
+          },
+          {
+            text: "Projetos Zigurate",
+            items: [
+              { text: 'Sobre Projetos', link: '/docs/projects/about' },
+            ]
           }
         ]
       }
@@ -80,6 +86,12 @@ export default defineConfig({
               { text: 'Gish (Enum)', link: 'en/docs/guide/gish' },
               { text: 'Maru (Lunig\'s Importation)', link: 'en/docs/guide/maru' },
               { text: 'Suma (Comparison)', link: 'en/docs/guide/suma' },
+            ]
+          },
+          {
+            text: "Zigurate Projects",
+            items: [
+              { text: 'About Projects', link: 'en/docs/projects/about' },
             ]
           },
         ]
